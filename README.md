@@ -1,2 +1,2 @@
-# Ogdo-Bogdo
+# Oggdo-Bogdo
 JP2GMD
